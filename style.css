@@ -1,0 +1,37 @@
+body {
+
+    font-family: "Patua One", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 40px;
+    padding: 2%;
+}
+
+.my-class {
+    padding: 0%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 10px 40px;
+    color: antiquewhite;
+    font-weight: 700;
+    border-radius: 5px;
+}
